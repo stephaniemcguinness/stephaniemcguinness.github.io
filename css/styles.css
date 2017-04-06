@@ -1,0 +1,61 @@
+
+
+body { 
+    height: 100%; 
+    background: url(../images/cold.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+
+
+.crap {
+	background-color: rgba(255,255,255 , 0.5);
+	text-align: center;
+	padding: 50px;
+	border-radius: 20px;
+	margin: 50px auto;
+	width: 100%;
+	max-width: 600px;
+
+
+}
+
+.crap div {
+	display: inline-block;
+	background-color: white;
+	padding: 20px 80px;
+	border-radius: 10px;
+	margin: 20px;
+}
+
+
+h1 {
+	padding: 20px;
+	font-size: 60;
+	color: black;
+	font-family: helvetica;
+	font-weight: lighter;
+}
+
+h2 {
+	font-size: 40;
+	color: black;
+	font-family: helvetica;
+	font-weight: lighter;
+}
+
+
+#celcius, #fahrenheit {
+	font-family: helvetica;
+	color: black;
+	font-size: 30;
+}
+
+
+
+
+
+
+
+
+
